@@ -1,0 +1,316 @@
+                                     about  above  according  acreage  acres  \
+reuters-topics/grain/article182.txt      0      0          0        0      0   
+reuters-topics/grain/article183.txt      0      0          0        0      0   
+reuters-topics/grain/article184.txt      0      0          0        0      0   
+reuters-topics/grain/article185.txt      0      0          0        0      0   
+reuters-topics/grain/article186.txt      0      0          0        0      0   
+reuters-topics/grain/article187.txt      0      0          0        0      0   
+reuters-topics/grain/article188.txt      0      0          0        0      0   
+reuters-topics/grain/article189.txt      0      0          0        0      0   
+reuters-topics/grain/article190.txt      0      0          0        0      0   
+reuters-topics/grain/article191.txt      0      0          0        0      0   
+reuters-topics/grain/article192.txt      0      1          0        0      0   
+reuters-topics/grain/article207.txt      1      0          0        0      0   
+reuters-topics/grain/article208.txt      0      0          0        0      0   
+reuters-topics/grain/article209.txt      0      0          0        0      0   
+reuters-topics/grain/article210.txt      1      1          0        0      0   
+reuters-topics/grain/article211.txt      1      0          0        0      0   
+reuters-topics/grain/article212.txt      0      0          0        0      0   
+reuters-topics/grain/article213.txt      0      0          0        0      0   
+reuters-topics/grain/article214.txt      0      0          0        0      0   
+reuters-topics/grain/article215.txt      0      0          0        0      0   
+reuters-topics/grain/article216.txt      0      0          0        0      0   
+reuters-topics/grain/article217.txt      0      0          0        0      0   
+reuters-topics/grain/article218.txt      0      0          0        0      0   
+reuters-topics/grain/article472.txt      0      0          0        0      0   
+reuters-topics/grain/article473.txt      0      1          0        0      0   
+reuters-topics/grain/article474.txt      1      0          0        0      0   
+reuters-topics/grain/article475.txt      0      2          0        0      0   
+reuters-topics/grain/article476.txt      0      0          0        0      0   
+reuters-topics/grain/article477.txt      4      0          0        0      0   
+reuters-topics/grain/article478.txt      3      0          0        0      0   
+...                                    ...    ...        ...      ...    ...   
+reuters-topics/crude/article347.txt      0      0          0        0      0   
+reuters-topics/crude/article348.txt      0      0          0        0      0   
+reuters-topics/crude/article149.txt      0      1          0        0      0   
+reuters-topics/crude/article150.txt      1      0          0        0      0   
+reuters-topics/crude/article151.txt      0      0          0        0      0   
+reuters-topics/crude/article152.txt      0      0          0        0      0   
+reuters-topics/crude/article153.txt      0      0          0        0      0   
+reuters-topics/crude/article154.txt      0      0          0        0      0   
+reuters-topics/crude/article155.txt      0      0          0        0      0   
+reuters-topics/crude/article156.txt      0      0          0        0      0   
+reuters-topics/crude/article157.txt      0      0          0        0      0   
+reuters-topics/crude/article158.txt      2      0          0        0      0   
+reuters-topics/crude/article159.txt      1      0          0        0      0   
+reuters-topics/crude/article160.txt      0      1          1        0      0   
+reuters-topics/crude/article161.txt      0      0          0        0      0   
+reuters-topics/crude/article162.txt      2      0          0        0      0   
+reuters-topics/crude/article503.txt      3      0          0        0      0   
+reuters-topics/crude/article504.txt      0      0          0        0      0   
+reuters-topics/crude/article505.txt      0      0          2        0      0   
+reuters-topics/crude/article506.txt      1      0          3        0      0   
+reuters-topics/crude/article507.txt      0      1          0        0      0   
+reuters-topics/crude/article508.txt      0      0          1        0      0   
+reuters-topics/crude/article509.txt      0      0          0        0      0   
+reuters-topics/crude/article510.txt      0      0          0        0      0   
+reuters-topics/crude/article511.txt      1      0          0        0      0   
+reuters-topics/crude/article512.txt      1      0          0        1      0   
+reuters-topics/crude/article513.txt      0      0          0        0      0   
+reuters-topics/crude/article514.txt      1      0          0        0      0   
+reuters-topics/crude/article515.txt      0      0          0        0      0   
+reuters-topics/crude/article516.txt      0      0          0        0      0   
+
+                                     action  added  additional  \
+reuters-topics/grain/article182.txt       0      0           0   
+reuters-topics/grain/article183.txt       0      1           0   
+reuters-topics/grain/article184.txt       0      0           0   
+reuters-topics/grain/article185.txt       0      0           0   
+reuters-topics/grain/article186.txt       0      0           0   
+reuters-topics/grain/article187.txt       0      0           0   
+reuters-topics/grain/article188.txt       0      0           0   
+reuters-topics/grain/article189.txt       0      0           0   
+reuters-topics/grain/article190.txt       0      1           0   
+reuters-topics/grain/article191.txt       0      0           0   
+reuters-topics/grain/article192.txt       0      2           0   
+reuters-topics/grain/article207.txt       0      1           0   
+reuters-topics/grain/article208.txt       0      0           0   
+reuters-topics/grain/article209.txt       0      0           0   
+reuters-topics/grain/article210.txt       0      0           0   
+reuters-topics/grain/article211.txt       0      0           0   
+reuters-topics/grain/article212.txt       0      0           0   
+reuters-topics/grain/article213.txt       0      0           0   
+reuters-topics/grain/article214.txt       0      0           0   
+reuters-topics/grain/article215.txt       0      0           0   
+reuters-topics/grain/article216.txt       0      0           0   
+reuters-topics/grain/article217.txt       0      1           0   
+reuters-topics/grain/article218.txt       0      1           0   
+reuters-topics/grain/article472.txt       0      0           0   
+reuters-topics/grain/article473.txt       0      0           0   
+reuters-topics/grain/article474.txt       2      0           0   
+reuters-topics/grain/article475.txt       0      0           0   
+reuters-topics/grain/article476.txt       0      0           0   
+reuters-topics/grain/article477.txt       0      0           0   
+reuters-topics/grain/article478.txt       0      0           0   
+...                                     ...    ...         ...   
+reuters-topics/crude/article347.txt       0      0           0   
+reuters-topics/crude/article348.txt       0      0           0   
+reuters-topics/crude/article149.txt       0      2           0   
+reuters-topics/crude/article150.txt       2      0           0   
+reuters-topics/crude/article151.txt       1      1           0   
+reuters-topics/crude/article152.txt       1      0           0   
+reuters-topics/crude/article153.txt       0      0           0   
+reuters-topics/crude/article154.txt       0      0           0   
+reuters-topics/crude/article155.txt       0      0           0   
+reuters-topics/crude/article156.txt       0      0           0   
+reuters-topics/crude/article157.txt       0      0           0   
+reuters-topics/crude/article158.txt       0      0           0   
+reuters-topics/crude/article159.txt       2      1           0   
+reuters-topics/crude/article160.txt       0      0           0   
+reuters-topics/crude/article161.txt       1      0           0   
+reuters-topics/crude/article162.txt       1      0           0   
+reuters-topics/crude/article503.txt       0      1           1   
+reuters-topics/crude/article504.txt       0      0           0   
+reuters-topics/crude/article505.txt       0      0           0   
+reuters-topics/crude/article506.txt       0      0           0   
+reuters-topics/crude/article507.txt       0      0           0   
+reuters-topics/crude/article508.txt       0      0           0   
+reuters-topics/crude/article509.txt       0      0           0   
+reuters-topics/crude/article510.txt       0      0           0   
+reuters-topics/crude/article511.txt       0      0           0   
+reuters-topics/crude/article512.txt       0      1           0   
+reuters-topics/crude/article513.txt       0      0           0   
+reuters-topics/crude/article514.txt       0      0           0   
+reuters-topics/crude/article515.txt       0      0           0   
+reuters-topics/crude/article516.txt       0      0           0   
+
+                                     administration  after    ...      while  \
+reuters-topics/grain/article182.txt               0      0    ...          0   
+reuters-topics/grain/article183.txt               1      1    ...          1   
+reuters-topics/grain/article184.txt               0      0    ...          0   
+reuters-topics/grain/article185.txt               0      0    ...          0   
+reuters-topics/grain/article186.txt               0      0    ...          0   
+reuters-topics/grain/article187.txt               0      0    ...          0   
+reuters-topics/grain/article188.txt               2      0    ...          0   
+reuters-topics/grain/article189.txt               0      0    ...          0   
+reuters-topics/grain/article190.txt               1      0    ...          0   
+reuters-topics/grain/article191.txt               0      0    ...          0   
+reuters-topics/grain/article192.txt               0      0    ...          0   
+reuters-topics/grain/article207.txt               0      0    ...          1   
+reuters-topics/grain/article208.txt               0      0    ...          0   
+reuters-topics/grain/article209.txt               0      0    ...          0   
+reuters-topics/grain/article210.txt               0      0    ...          0   
+reuters-topics/grain/article211.txt               0      1    ...          0   
+reuters-topics/grain/article212.txt               0      0    ...          0   
+reuters-topics/grain/article213.txt               0      0    ...          0   
+reuters-topics/grain/article214.txt               0      0    ...          0   
+reuters-topics/grain/article215.txt               0      0    ...          0   
+reuters-topics/grain/article216.txt               0      0    ...          0   
+reuters-topics/grain/article217.txt               0      0    ...          0   
+reuters-topics/grain/article218.txt               0      0    ...          0   
+reuters-topics/grain/article472.txt               0      0    ...          0   
+reuters-topics/grain/article473.txt               0      0    ...          0   
+reuters-topics/grain/article474.txt               0      0    ...          0   
+reuters-topics/grain/article475.txt               0      0    ...          0   
+reuters-topics/grain/article476.txt               0      0    ...          0   
+reuters-topics/grain/article477.txt               4      0    ...          1   
+reuters-topics/grain/article478.txt               0      0    ...          0   
+...                                             ...    ...    ...        ...   
+reuters-topics/crude/article347.txt               0      0    ...          0   
+reuters-topics/crude/article348.txt               0      0    ...          0   
+reuters-topics/crude/article149.txt               0      0    ...          0   
+reuters-topics/crude/article150.txt               0      0    ...          1   
+reuters-topics/crude/article151.txt               0      0    ...          1   
+reuters-topics/crude/article152.txt               0      0    ...          0   
+reuters-topics/crude/article153.txt               0      0    ...          0   
+reuters-topics/crude/article154.txt               0      0    ...          0   
+reuters-topics/crude/article155.txt               0      0    ...          0   
+reuters-topics/crude/article156.txt               0      0    ...          0   
+reuters-topics/crude/article157.txt               0      0    ...          0   
+reuters-topics/crude/article158.txt               0      0    ...          0   
+reuters-topics/crude/article159.txt               0      0    ...          0   
+reuters-topics/crude/article160.txt               0      1    ...          0   
+reuters-topics/crude/article161.txt               1      1    ...          0   
+reuters-topics/crude/article162.txt               0      1    ...          0   
+reuters-topics/crude/article503.txt               0      0    ...          0   
+reuters-topics/crude/article504.txt               0      0    ...          0   
+reuters-topics/crude/article505.txt               0      1    ...          0   
+reuters-topics/crude/article506.txt               0      0    ...          0   
+reuters-topics/crude/article507.txt               0      0    ...          1   
+reuters-topics/crude/article508.txt               0      1    ...          1   
+reuters-topics/crude/article509.txt               0      0    ...          0   
+reuters-topics/crude/article510.txt               0      0    ...          0   
+reuters-topics/crude/article511.txt               0      0    ...          0   
+reuters-topics/crude/article512.txt               0      0    ...          1   
+reuters-topics/crude/article513.txt               0      0    ...          0   
+reuters-topics/crude/article514.txt               0      0    ...          1   
+reuters-topics/crude/article515.txt               0      1    ...          0   
+reuters-topics/crude/article516.txt               0      0    ...          0   
+
+                                     who  will  winter  with  world  would  \
+reuters-topics/grain/article182.txt    0     0       0     1      0      0   
+reuters-topics/grain/article183.txt    0     3       0    10      6      3   
+reuters-topics/grain/article184.txt    0     0       0     1      0      0   
+reuters-topics/grain/article185.txt    1     7       0     1      0      0   
+reuters-topics/grain/article186.txt    0     0       0     0      0      0   
+reuters-topics/grain/article187.txt    0     1       0     1      0      3   
+reuters-topics/grain/article188.txt    0     2       0     1      0      0   
+reuters-topics/grain/article189.txt    1     0       3     1      0      1   
+reuters-topics/grain/article190.txt    0     1       0     0      0      3   
+reuters-topics/grain/article191.txt    0     0       0     0      0      0   
+reuters-topics/grain/article192.txt    0     2       5     2      0      0   
+reuters-topics/grain/article207.txt    1     3       0     3      1      2   
+reuters-topics/grain/article208.txt    0     0       0     3      0      0   
+reuters-topics/grain/article209.txt    0     0       0     0      0      0   
+reuters-topics/grain/article210.txt    0     0       0     0      0      0   
+reuters-topics/grain/article211.txt    0     0       0     0      0      1   
+reuters-topics/grain/article212.txt    0     0       0     0      0      0   
+reuters-topics/grain/article213.txt    0     1       0     0      0      0   
+reuters-topics/grain/article214.txt    0     1       0     0      0      0   
+reuters-topics/grain/article215.txt    0     2       0     0      0      0   
+reuters-topics/grain/article216.txt    0     0       0     0      0      0   
+reuters-topics/grain/article217.txt    0     2       0     1      0      0   
+reuters-topics/grain/article218.txt    0     2       0     1      0      0   
+reuters-topics/grain/article472.txt    0     0       0     0      0      0   
+reuters-topics/grain/article473.txt    0     0       3     0      0      0   
+reuters-topics/grain/article474.txt    0     4       0     3      0      0   
+reuters-topics/grain/article475.txt    0     0       0     0      0      0   
+reuters-topics/grain/article476.txt    0     1       6     0      1      0   
+reuters-topics/grain/article477.txt    1     0       5     0      0     13   
+reuters-topics/grain/article478.txt    0     0       0     0      0      0   
+...                                  ...   ...     ...   ...    ...    ...   
+reuters-topics/crude/article347.txt    0     1       0     2      3      1   
+reuters-topics/crude/article348.txt    0     1       0     0      0      1   
+reuters-topics/crude/article149.txt    0     1       0     0      0      1   
+reuters-topics/crude/article150.txt    0     0       0     1      0      0   
+reuters-topics/crude/article151.txt    0     0       0     0      0      0   
+reuters-topics/crude/article152.txt    2     0       0     2      0      0   
+reuters-topics/crude/article153.txt    0     0       0     0      0      0   
+reuters-topics/crude/article154.txt    0     1       0     0      0      0   
+reuters-topics/crude/article155.txt    0     0       0     0      0      0   
+reuters-topics/crude/article156.txt    0     0       0     0      0      0   
+reuters-topics/crude/article157.txt    0     4       0     2      0      1   
+reuters-topics/crude/article158.txt    0     0       0     0      0      0   
+reuters-topics/crude/article159.txt    1     2       0     0      0      1   
+reuters-topics/crude/article160.txt    1     0       0     5      1      1   
+reuters-topics/crude/article161.txt    0     0       0     3      0      2   
+reuters-topics/crude/article162.txt    0     1       0     5      0      2   
+reuters-topics/crude/article503.txt    0     0       0     3      0      1   
+reuters-topics/crude/article504.txt    0     0       0     0      0      2   
+reuters-topics/crude/article505.txt    0     2       0     0      0      0   
+reuters-topics/crude/article506.txt    0     0       0     0      0      0   
+reuters-topics/crude/article507.txt    0     3       1     4      1      5   
+reuters-topics/crude/article508.txt    1     4       0     4      9      3   
+reuters-topics/crude/article509.txt    0     0       0     0      0      0   
+reuters-topics/crude/article510.txt    0     1       0     2      0      1   
+reuters-topics/crude/article511.txt    0     0       0     1      1      1   
+reuters-topics/crude/article512.txt    0     2       0     2      4      0   
+reuters-topics/crude/article513.txt    0     0       0     1      0      4   
+reuters-topics/crude/article514.txt    0     4       0     0      0      0   
+reuters-topics/crude/article515.txt    0     0       0     0      0      0   
+reuters-topics/crude/article516.txt    0     0       0     0      1      3   
+
+                                     year  years  yesterday  
+reuters-topics/grain/article182.txt     1      0          0  
+reuters-topics/grain/article183.txt     1      0          0  
+reuters-topics/grain/article184.txt     0      3          0  
+reuters-topics/grain/article185.txt     0      0          0  
+reuters-topics/grain/article186.txt     0      0          0  
+reuters-topics/grain/article187.txt     0      0          0  
+reuters-topics/grain/article188.txt     0      0          0  
+reuters-topics/grain/article189.txt     0      0          0  
+reuters-topics/grain/article190.txt     0      0          0  
+reuters-topics/grain/article191.txt     0      0          0  
+reuters-topics/grain/article192.txt     1      0          0  
+reuters-topics/grain/article207.txt     4      2          0  
+reuters-topics/grain/article208.txt     2      1          0  
+reuters-topics/grain/article209.txt     0      0          1  
+reuters-topics/grain/article210.txt     0      0          0  
+reuters-topics/grain/article211.txt     0      0          0  
+reuters-topics/grain/article212.txt     0      0          0  
+reuters-topics/grain/article213.txt     0      0          0  
+reuters-topics/grain/article214.txt     0      0          0  
+reuters-topics/grain/article215.txt     0      0          0  
+reuters-topics/grain/article216.txt     0      0          0  
+reuters-topics/grain/article217.txt     0      0          0  
+reuters-topics/grain/article218.txt     0      0          0  
+reuters-topics/grain/article472.txt     0      0          0  
+reuters-topics/grain/article473.txt     0      0          0  
+reuters-topics/grain/article474.txt     0      0          0  
+reuters-topics/grain/article475.txt     0      0          0  
+reuters-topics/grain/article476.txt     0      0          0  
+reuters-topics/grain/article477.txt     2      0          0  
+reuters-topics/grain/article478.txt     0      0          0  
+...                                   ...    ...        ...  
+reuters-topics/crude/article347.txt     1      0          0  
+reuters-topics/crude/article348.txt     0      0          0  
+reuters-topics/crude/article149.txt     0      0          0  
+reuters-topics/crude/article150.txt     0      0          0  
+reuters-topics/crude/article151.txt     0      0          0  
+reuters-topics/crude/article152.txt     0      0          0  
+reuters-topics/crude/article153.txt     1      0          0  
+reuters-topics/crude/article154.txt     0      0          0  
+reuters-topics/crude/article155.txt     0      0          0  
+reuters-topics/crude/article156.txt     0      0          0  
+reuters-topics/crude/article157.txt     0      0          0  
+reuters-topics/crude/article158.txt     0      0          0  
+reuters-topics/crude/article159.txt     0      0          0  
+reuters-topics/crude/article160.txt     0      0          0  
+reuters-topics/crude/article161.txt     0      0          0  
+reuters-topics/crude/article162.txt     0      0          0  
+reuters-topics/crude/article503.txt     1      0          0  
+reuters-topics/crude/article504.txt     0      0          0  
+reuters-topics/crude/article505.txt     0      0          0  
+reuters-topics/crude/article506.txt     0      0          0  
+reuters-topics/crude/article507.txt     4      0          0  
+reuters-topics/crude/article508.txt     2      0          1  
+reuters-topics/crude/article509.txt     0      0          0  
+reuters-topics/crude/article510.txt     0      0          0  
+reuters-topics/crude/article511.txt     0      3          0  
+reuters-topics/crude/article512.txt     2      1          0  
+reuters-topics/crude/article513.txt     1      0          0  
+reuters-topics/crude/article514.txt     0      0          0  
+reuters-topics/crude/article515.txt     0      0          1  
+reuters-topics/crude/article516.txt     0      0          0  
+
+[1160 rows x 500 columns]

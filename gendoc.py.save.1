@@ -1,0 +1,118 @@
+import os, sys
+import glob
+import argparse
+import numpy as np
+import pandas as pd
+from sklearn.decomposition import TruncatedSVD
+from sklearn.feature_extraction.text import TfidfTransformer
+from sklearn.feature_extraction.text import CountVectorizer
+import string
+
+# gendoc.py -- Don't forget to put a reasonable amount code comments
+# in so that we better understand what you're doing when we grade!
+
+# add whatever additional imports you may need here
+
+parser = argparse.ArgumentParser(description="Generate term-document matrix.")
+parser.add_argument("-T", "--tfidf", action="store_true", help="Apply tf-idf to the matrix.")
+parser.add_argument("-S", "--svd", metavar="N", dest="svddims", type=int,
+                    default=None,
+                    help="Use TruncatedSVD to truncate to N dimensions")
+parser.add_argument("-B", "--base-vocab", metavar="M", dest="basedims",
+                    type=int, default=None,
+                    help="Use the top M dims from the raw counts before further processing")
+parser.add_argument("foldername", type=str,
+                    help="The base folder name containing the two topic subfolders.")
+parser.add_argument("outputfile", type=str,
+                    help="The name of the output file for the matrix data.")
+
+args = parser.parse_args()
+m = args.basedims
+
+if args.basedims:
+	cv = CountVectorizer(max_features=m)
+else:
+     	cv = CountVectorizer()
+
+def fetchtokens(foldername): # this would be scratch
+    '''Read all words
+    '''
+
+    # df = pd.DataFrame(counts)
+    '''corpus:
+        array containing all the documents
+    '''
+    corpus = []
+
+    remove_punct = str.maketrans('', '', string.punctuation)
+
+    base_folders = os.listdir(args.foldername) #list containing grain + crude
+    for folder in base_folders: #[grain,crude]
+        subfolder_path = os.path.join(args.foldername, folder) #grain,crude, 
+        for txtfile in os.listdir(subfolder_path):
+            file_path = os.path.join(subfolder_path, txtfile) #os.listdir(crude)
+            '''
+            For each document, remove punctuation and create word vectors
+            '''
+            with open(file_path, 'r') as f:
+                '''read in the entire file'''
+                docstring = f.read().replace('\n', '')
+                for line in f:
+                    line = line.translate(remove_punct).lower().split()
+            corpus.append(docstring)
+    return corpus
+
+corpus = fetchtokens(args.foldername)
+
+x = cv.fit_transform(corpus)
+if args.tfidf:
+	tfidf_transformer = TfidfTransformer()
+	x = tfidf_transformer.fit_transform(x)
+
+matrix = x.toarray()         
+
+df = pd.DataFrame(matrix)
+df.columns = cv.get_feature_names()
+base_folders = os.listdir(args.foldername)
+df.index = glob.glob('{}/*/article*'.format(args.foldername))
+
+def dubs():
+	duplicate_index = df.duplicated(keep=False).index
+	print(duplicate_index)
+#	for duplicate in duplicate_index:
+#               	print('{} removed'.format(duplicate))
+
+df.drop_duplicates()
+#print(df)
+
+if args.svddims:
+	TS = TruncatedSVD(args.svddims)
+	P = TS.fit_transform(matrix)
+	print(P)
+
+df.to_csv(args.outputfile)
+
+'''Take a folder consisting of two subfolders
+that contain documents of two different classes, the classes being the subfolder names,
+and it will write an output file that consists of a table of document vectors.
+'''
+
+print("Loading data from directory {}.".format(args.foldername))
+
+if not args.basedims:
+    print("Using full vocabulary.")
+else:
+    print("Using only top {} terms by raw count.".format(args.basedims))
+
+if args.tfidf:
+    print("Applying tf-idf to raw counts.")
+
+if args.svddims:
+    print("Truncating matrix to {} dimensions via singular value decomposition.".format(args.svddims))
+
+print("Eliminating duplicate vectors: {}".format(dubs()))
+
+# THERE ARE SOME ERROR CONDITIONS YOU MAY HAVE TO HANDLE WITH CONTRADICTORY                                         
+# PARAMETERS.                                                                                                       
+
+print("Writing matrix to {}.".format(args.outputfile))

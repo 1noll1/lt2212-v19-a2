@@ -1,0 +1,379 @@
+                                        about     above  according   acreage  \
+reuters-topics/grain/article182.txt  0.000000  0.000000   0.000000  0.000000   
+reuters-topics/grain/article183.txt  0.000000  0.000000   0.000000  0.000000   
+reuters-topics/grain/article184.txt  0.000000  0.000000   0.000000  0.000000   
+reuters-topics/grain/article185.txt  0.000000  0.000000   0.000000  0.000000   
+reuters-topics/grain/article186.txt  0.000000  0.000000   0.000000  0.000000   
+reuters-topics/grain/article187.txt  0.000000  0.000000   0.000000  0.000000   
+reuters-topics/grain/article188.txt  0.000000  0.000000   0.000000  0.000000   
+reuters-topics/grain/article189.txt  0.000000  0.000000   0.000000  0.000000   
+reuters-topics/grain/article190.txt  0.000000  0.000000   0.000000  0.000000   
+reuters-topics/grain/article191.txt  0.000000  0.000000   0.000000  0.000000   
+reuters-topics/grain/article192.txt  0.000000  0.079077   0.000000  0.000000   
+reuters-topics/grain/article207.txt  0.015371  0.000000   0.000000  0.000000   
+reuters-topics/grain/article208.txt  0.000000  0.000000   0.000000  0.000000   
+reuters-topics/grain/article209.txt  0.000000  0.000000   0.000000  0.000000   
+reuters-topics/grain/article210.txt  0.088293  0.134812   0.000000  0.000000   
+reuters-topics/grain/article211.txt  0.081632  0.000000   0.000000  0.000000   
+reuters-topics/grain/article212.txt  0.000000  0.000000   0.000000  0.000000   
+reuters-topics/grain/article213.txt  0.000000  0.000000   0.000000  0.000000   
+reuters-topics/grain/article214.txt  0.000000  0.000000   0.000000  0.000000   
+reuters-topics/grain/article215.txt  0.000000  0.000000   0.000000  0.000000   
+reuters-topics/grain/article216.txt  0.000000  0.000000   0.000000  0.000000   
+reuters-topics/grain/article217.txt  0.000000  0.000000   0.000000  0.000000   
+reuters-topics/grain/article218.txt  0.000000  0.000000   0.000000  0.000000   
+reuters-topics/grain/article472.txt  0.000000  0.000000   0.000000  0.000000   
+reuters-topics/grain/article473.txt  0.000000  0.078041   0.000000  0.000000   
+reuters-topics/grain/article474.txt  0.044650  0.000000   0.000000  0.000000   
+reuters-topics/grain/article475.txt  0.000000  0.195925   0.000000  0.000000   
+reuters-topics/grain/article476.txt  0.000000  0.000000   0.000000  0.000000   
+reuters-topics/grain/article477.txt  0.092755  0.000000   0.000000  0.000000   
+reuters-topics/grain/article478.txt  0.261832  0.000000   0.000000  0.000000   
+...                                       ...       ...        ...       ...   
+reuters-topics/crude/article347.txt  0.000000  0.000000   0.000000  0.000000   
+reuters-topics/crude/article348.txt  0.000000  0.000000   0.000000  0.000000   
+reuters-topics/crude/article149.txt  0.000000  0.076290   0.000000  0.000000   
+reuters-topics/crude/article150.txt  0.039019  0.000000   0.000000  0.000000   
+reuters-topics/crude/article151.txt  0.000000  0.000000   0.000000  0.000000   
+reuters-topics/crude/article152.txt  0.000000  0.000000   0.000000  0.000000   
+reuters-topics/crude/article153.txt  0.000000  0.000000   0.000000  0.000000   
+reuters-topics/crude/article154.txt  0.000000  0.000000   0.000000  0.000000   
+reuters-topics/crude/article155.txt  0.000000  0.000000   0.000000  0.000000   
+reuters-topics/crude/article156.txt  0.000000  0.000000   0.000000  0.000000   
+reuters-topics/crude/article157.txt  0.000000  0.000000   0.000000  0.000000   
+reuters-topics/crude/article158.txt  0.102901  0.000000   0.000000  0.000000   
+reuters-topics/crude/article159.txt  0.058077  0.000000   0.000000  0.000000   
+reuters-topics/crude/article160.txt  0.000000  0.042279   0.041576  0.000000   
+reuters-topics/crude/article161.txt  0.000000  0.000000   0.000000  0.000000   
+reuters-topics/crude/article162.txt  0.065517  0.000000   0.000000  0.000000   
+reuters-topics/crude/article503.txt  0.067196  0.000000   0.000000  0.000000   
+reuters-topics/crude/article504.txt  0.000000  0.000000   0.000000  0.000000   
+reuters-topics/crude/article505.txt  0.000000  0.000000   0.184490  0.000000   
+reuters-topics/crude/article506.txt  0.020574  0.000000   0.092675  0.000000   
+reuters-topics/crude/article507.txt  0.000000  0.043764   0.000000  0.000000   
+reuters-topics/crude/article508.txt  0.000000  0.000000   0.028010  0.000000   
+reuters-topics/crude/article509.txt  0.000000  0.000000   0.000000  0.000000   
+reuters-topics/crude/article510.txt  0.000000  0.000000   0.000000  0.000000   
+reuters-topics/crude/article511.txt  0.032899  0.000000   0.000000  0.000000   
+reuters-topics/crude/article512.txt  0.041133  0.000000   0.000000  0.073564   
+reuters-topics/crude/article513.txt  0.000000  0.000000   0.000000  0.000000   
+reuters-topics/crude/article514.txt  0.037119  0.000000   0.000000  0.000000   
+reuters-topics/crude/article515.txt  0.000000  0.000000   0.000000  0.000000   
+reuters-topics/crude/article516.txt  0.000000  0.000000   0.000000  0.000000   
+
+                                     acres    action     added  additional  \
+reuters-topics/grain/article182.txt    0.0  0.000000  0.000000    0.000000   
+reuters-topics/grain/article183.txt    0.0  0.000000  0.015422    0.000000   
+reuters-topics/grain/article184.txt    0.0  0.000000  0.000000    0.000000   
+reuters-topics/grain/article185.txt    0.0  0.000000  0.000000    0.000000   
+reuters-topics/grain/article186.txt    0.0  0.000000  0.000000    0.000000   
+reuters-topics/grain/article187.txt    0.0  0.000000  0.000000    0.000000   
+reuters-topics/grain/article188.txt    0.0  0.000000  0.000000    0.000000   
+reuters-topics/grain/article189.txt    0.0  0.000000  0.000000    0.000000   
+reuters-topics/grain/article190.txt    0.0  0.000000  0.078680    0.000000   
+reuters-topics/grain/article191.txt    0.0  0.000000  0.000000    0.000000   
+reuters-topics/grain/article192.txt    0.0  0.000000  0.129525    0.000000   
+reuters-topics/grain/article207.txt    0.0  0.000000  0.019221    0.000000   
+reuters-topics/grain/article208.txt    0.0  0.000000  0.000000    0.000000   
+reuters-topics/grain/article209.txt    0.0  0.000000  0.000000    0.000000   
+reuters-topics/grain/article210.txt    0.0  0.000000  0.000000    0.000000   
+reuters-topics/grain/article211.txt    0.0  0.000000  0.000000    0.000000   
+reuters-topics/grain/article212.txt    0.0  0.000000  0.000000    0.000000   
+reuters-topics/grain/article213.txt    0.0  0.000000  0.000000    0.000000   
+reuters-topics/grain/article214.txt    0.0  0.000000  0.000000    0.000000   
+reuters-topics/grain/article215.txt    0.0  0.000000  0.000000    0.000000   
+reuters-topics/grain/article216.txt    0.0  0.000000  0.000000    0.000000   
+reuters-topics/grain/article217.txt    0.0  0.000000  0.043223    0.000000   
+reuters-topics/grain/article218.txt    0.0  0.000000  0.095434    0.000000   
+reuters-topics/grain/article472.txt    0.0  0.000000  0.000000    0.000000   
+reuters-topics/grain/article473.txt    0.0  0.000000  0.000000    0.000000   
+reuters-topics/grain/article474.txt    0.0  0.143563  0.000000    0.000000   
+reuters-topics/grain/article475.txt    0.0  0.000000  0.000000    0.000000   
+reuters-topics/grain/article476.txt    0.0  0.000000  0.000000    0.000000   
+reuters-topics/grain/article477.txt    0.0  0.000000  0.000000    0.000000   
+reuters-topics/grain/article478.txt    0.0  0.000000  0.000000    0.000000   
+...                                    ...       ...       ...         ...   
+reuters-topics/crude/article347.txt    0.0  0.000000  0.000000    0.000000   
+reuters-topics/crude/article348.txt    0.0  0.000000  0.000000    0.000000   
+reuters-topics/crude/article149.txt    0.0  0.000000  0.124962    0.000000   
+reuters-topics/crude/article150.txt    0.0  0.125455  0.000000    0.000000   
+reuters-topics/crude/article151.txt    0.0  0.087169  0.067804    0.000000   
+reuters-topics/crude/article152.txt    0.0  0.086928  0.000000    0.000000   
+reuters-topics/crude/article153.txt    0.0  0.000000  0.000000    0.000000   
+reuters-topics/crude/article154.txt    0.0  0.000000  0.000000    0.000000   
+reuters-topics/crude/article155.txt    0.0  0.000000  0.000000    0.000000   
+reuters-topics/crude/article156.txt    0.0  0.000000  0.000000    0.000000   
+reuters-topics/crude/article157.txt    0.0  0.000000  0.000000    0.000000   
+reuters-topics/crude/article158.txt    0.0  0.000000  0.000000    0.000000   
+reuters-topics/crude/article159.txt    0.0  0.186734  0.072625    0.000000   
+reuters-topics/crude/article160.txt    0.0  0.000000  0.000000    0.000000   
+reuters-topics/crude/article161.txt    0.0  0.044539  0.000000    0.000000   
+reuters-topics/crude/article162.txt    0.0  0.052664  0.000000    0.000000   
+reuters-topics/crude/article503.txt    0.0  0.000000  0.028009    0.035867   
+reuters-topics/crude/article504.txt    0.0  0.000000  0.000000    0.000000   
+reuters-topics/crude/article505.txt    0.0  0.000000  0.000000    0.000000   
+reuters-topics/crude/article506.txt    0.0  0.000000  0.000000    0.000000   
+reuters-topics/crude/article507.txt    0.0  0.000000  0.000000    0.000000   
+reuters-topics/crude/article508.txt    0.0  0.000000  0.000000    0.000000   
+reuters-topics/crude/article509.txt    0.0  0.000000  0.000000    0.000000   
+reuters-topics/crude/article510.txt    0.0  0.000000  0.000000    0.000000   
+reuters-topics/crude/article511.txt    0.0  0.000000  0.000000    0.000000   
+reuters-topics/crude/article512.txt    0.0  0.000000  0.051436    0.000000   
+reuters-topics/crude/article513.txt    0.0  0.000000  0.000000    0.000000   
+reuters-topics/crude/article514.txt    0.0  0.000000  0.000000    0.000000   
+reuters-topics/crude/article515.txt    0.0  0.000000  0.000000    0.000000   
+reuters-topics/crude/article516.txt    0.0  0.000000  0.000000    0.000000   
+
+                                     administration     after    ...      \
+reuters-topics/grain/article182.txt        0.000000  0.000000    ...       
+reuters-topics/grain/article183.txt        0.019164  0.014682    ...       
+reuters-topics/grain/article184.txt        0.000000  0.000000    ...       
+reuters-topics/grain/article185.txt        0.000000  0.000000    ...       
+reuters-topics/grain/article186.txt        0.000000  0.000000    ...       
+reuters-topics/grain/article187.txt        0.000000  0.000000    ...       
+reuters-topics/grain/article188.txt        0.217453  0.000000    ...       
+reuters-topics/grain/article189.txt        0.000000  0.000000    ...       
+reuters-topics/grain/article190.txt        0.097773  0.000000    ...       
+reuters-topics/grain/article191.txt        0.000000  0.000000    ...       
+reuters-topics/grain/article192.txt        0.000000  0.000000    ...       
+reuters-topics/grain/article207.txt        0.000000  0.000000    ...       
+reuters-topics/grain/article208.txt        0.000000  0.000000    ...       
+reuters-topics/grain/article209.txt        0.000000  0.000000    ...       
+reuters-topics/grain/article210.txt        0.000000  0.000000    ...       
+reuters-topics/grain/article211.txt        0.000000  0.097184    ...       
+reuters-topics/grain/article212.txt        0.000000  0.000000    ...       
+reuters-topics/grain/article213.txt        0.000000  0.000000    ...       
+reuters-topics/grain/article214.txt        0.000000  0.000000    ...       
+reuters-topics/grain/article215.txt        0.000000  0.000000    ...       
+reuters-topics/grain/article216.txt        0.000000  0.000000    ...       
+reuters-topics/grain/article217.txt        0.000000  0.000000    ...       
+reuters-topics/grain/article218.txt        0.000000  0.000000    ...       
+reuters-topics/grain/article472.txt        0.000000  0.000000    ...       
+reuters-topics/grain/article473.txt        0.000000  0.000000    ...       
+reuters-topics/grain/article474.txt        0.000000  0.000000    ...       
+reuters-topics/grain/article475.txt        0.000000  0.000000    ...       
+reuters-topics/grain/article476.txt        0.000000  0.000000    ...       
+reuters-topics/grain/article477.txt        0.144137  0.000000    ...       
+reuters-topics/grain/article478.txt        0.000000  0.000000    ...       
+...                                             ...       ...    ...       
+reuters-topics/crude/article347.txt        0.000000  0.000000    ...       
+reuters-topics/crude/article348.txt        0.000000  0.000000    ...       
+reuters-topics/crude/article149.txt        0.000000  0.000000    ...       
+reuters-topics/crude/article150.txt        0.000000  0.000000    ...       
+reuters-topics/crude/article151.txt        0.000000  0.000000    ...       
+reuters-topics/crude/article152.txt        0.000000  0.000000    ...       
+reuters-topics/crude/article153.txt        0.000000  0.000000    ...       
+reuters-topics/crude/article154.txt        0.000000  0.000000    ...       
+reuters-topics/crude/article155.txt        0.000000  0.000000    ...       
+reuters-topics/crude/article156.txt        0.000000  0.000000    ...       
+reuters-topics/crude/article157.txt        0.000000  0.000000    ...       
+reuters-topics/crude/article158.txt        0.000000  0.000000    ...       
+reuters-topics/crude/article159.txt        0.000000  0.000000    ...       
+reuters-topics/crude/article160.txt        0.000000  0.032966    ...       
+reuters-topics/crude/article161.txt        0.043051  0.032983    ...       
+reuters-topics/crude/article162.txt        0.000000  0.039000    ...       
+reuters-topics/crude/article503.txt        0.000000  0.000000    ...       
+reuters-topics/crude/article504.txt        0.000000  0.000000    ...       
+reuters-topics/crude/article505.txt        0.000000  0.073142    ...       
+reuters-topics/crude/article506.txt        0.000000  0.000000    ...       
+reuters-topics/crude/article507.txt        0.000000  0.000000    ...       
+reuters-topics/crude/article508.txt        0.000000  0.022210    ...       
+reuters-topics/crude/article509.txt        0.000000  0.000000    ...       
+reuters-topics/crude/article510.txt        0.000000  0.000000    ...       
+reuters-topics/crude/article511.txt        0.000000  0.000000    ...       
+reuters-topics/crude/article512.txt        0.000000  0.000000    ...       
+reuters-topics/crude/article513.txt        0.000000  0.000000    ...       
+reuters-topics/crude/article514.txt        0.000000  0.000000    ...       
+reuters-topics/crude/article515.txt        0.000000  0.087233    ...       
+reuters-topics/crude/article516.txt        0.000000  0.000000    ...       
+
+                                        while       who      will    winter  \
+reuters-topics/grain/article182.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/grain/article183.txt  0.015323  0.000000  0.029568  0.000000   
+reuters-topics/grain/article184.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/grain/article185.txt  0.000000  0.059517  0.235637  0.000000   
+reuters-topics/grain/article186.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/grain/article187.txt  0.000000  0.000000  0.034828  0.000000   
+reuters-topics/grain/article188.txt  0.000000  0.000000  0.111837  0.000000   
+reuters-topics/grain/article189.txt  0.000000  0.060617  0.000000  0.204493   
+reuters-topics/grain/article190.txt  0.000000  0.000000  0.050285  0.000000   
+reuters-topics/grain/article191.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/grain/article192.txt  0.000000  0.000000  0.082781  0.411460   
+reuters-topics/grain/article207.txt  0.019098  0.021719  0.036853  0.000000   
+reuters-topics/grain/article208.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/grain/article209.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/grain/article210.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/grain/article211.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/grain/article212.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/grain/article213.txt  0.000000  0.000000  0.109439  0.000000   
+reuters-topics/grain/article214.txt  0.000000  0.000000  0.023246  0.000000   
+reuters-topics/grain/article215.txt  0.000000  0.000000  0.108490  0.000000   
+reuters-topics/grain/article216.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/grain/article217.txt  0.000000  0.000000  0.055248  0.000000   
+reuters-topics/grain/article218.txt  0.000000  0.000000  0.121985  0.000000   
+reuters-topics/grain/article472.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/grain/article473.txt  0.000000  0.000000  0.000000  0.243643   
+reuters-topics/grain/article474.txt  0.000000  0.000000  0.142738  0.000000   
+reuters-topics/grain/article475.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/grain/article476.txt  0.000000  0.000000  0.026237  0.312982   
+reuters-topics/grain/article477.txt  0.028812  0.032767  0.000000  0.184230   
+reuters-topics/grain/article478.txt  0.000000  0.000000  0.000000  0.000000   
+...                                       ...       ...       ...       ...   
+reuters-topics/crude/article347.txt  0.000000  0.000000  0.027585  0.000000   
+reuters-topics/crude/article348.txt  0.000000  0.000000  0.069994  0.000000   
+reuters-topics/crude/article149.txt  0.000000  0.000000  0.039932  0.000000   
+reuters-topics/crude/article150.txt  0.048480  0.000000  0.000000  0.000000   
+reuters-topics/crude/article151.txt  0.067371  0.000000  0.000000  0.000000   
+reuters-topics/crude/article152.txt  0.000000  0.152811  0.000000  0.000000   
+reuters-topics/crude/article153.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/crude/article154.txt  0.000000  0.000000  0.087314  0.000000   
+reuters-topics/crude/article155.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/crude/article156.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/crude/article157.txt  0.000000  0.000000  0.217092  0.000000   
+reuters-topics/crude/article158.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/crude/article159.txt  0.000000  0.082065  0.092830  0.000000   
+reuters-topics/crude/article160.txt  0.000000  0.039127  0.000000  0.000000   
+reuters-topics/crude/article161.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/crude/article162.txt  0.000000  0.000000  0.026181  0.000000   
+reuters-topics/crude/article503.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/crude/article504.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/crude/article505.txt  0.000000  0.000000  0.098200  0.000000   
+reuters-topics/crude/article506.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/crude/article507.txt  0.035613  0.000000  0.068722  0.045544   
+reuters-topics/crude/article508.txt  0.023179  0.026361  0.059637  0.000000   
+reuters-topics/crude/article509.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/crude/article510.txt  0.000000  0.000000  0.026488  0.000000   
+reuters-topics/crude/article511.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/crude/article512.txt  0.051107  0.000000  0.065747  0.000000   
+reuters-topics/crude/article513.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/crude/article514.txt  0.046120  0.000000  0.118661  0.000000   
+reuters-topics/crude/article515.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/crude/article516.txt  0.000000  0.000000  0.000000  0.000000   
+
+                                         with     world     would      year  \
+reuters-topics/grain/article182.txt  0.059803  0.000000  0.000000  0.064087   
+reuters-topics/grain/article183.txt  0.097132  0.094164  0.032388  0.010409   
+reuters-topics/grain/article184.txt  0.062897  0.000000  0.000000  0.000000   
+reuters-topics/grain/article185.txt  0.033174  0.000000  0.000000  0.000000   
+reuters-topics/grain/article186.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/grain/article187.txt  0.034323  0.000000  0.114448  0.000000   
+reuters-topics/grain/article188.txt  0.055108  0.000000  0.000000  0.000000   
+reuters-topics/grain/article189.txt  0.033788  0.000000  0.037554  0.000000   
+reuters-topics/grain/article190.txt  0.000000  0.000000  0.165242  0.000000   
+reuters-topics/grain/article191.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/grain/article192.txt  0.081581  0.000000  0.000000  0.043712   
+reuters-topics/grain/article207.txt  0.036318  0.019560  0.026911  0.051893   
+reuters-topics/grain/article208.txt  0.084312  0.000000  0.000000  0.060234   
+reuters-topics/grain/article209.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/grain/article210.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/grain/article211.txt  0.000000  0.000000  0.071462  0.000000   
+reuters-topics/grain/article212.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/grain/article213.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/grain/article214.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/grain/article215.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/grain/article216.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/grain/article217.txt  0.027223  0.000000  0.000000  0.000000   
+reuters-topics/grain/article218.txt  0.060108  0.000000  0.000000  0.000000   
+reuters-topics/grain/article472.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/grain/article473.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/grain/article474.txt  0.105501  0.000000  0.000000  0.000000   
+reuters-topics/grain/article475.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/grain/article476.txt  0.000000  0.041777  0.000000  0.000000   
+reuters-topics/grain/article477.txt  0.000000  0.000000  0.263898  0.039144   
+reuters-topics/grain/article478.txt  0.000000  0.000000  0.000000  0.000000   
+...                                       ...       ...       ...       ...   
+reuters-topics/crude/article347.txt  0.054370  0.131771  0.030216  0.029132   
+reuters-topics/crude/article348.txt  0.000000  0.000000  0.076669  0.000000   
+reuters-topics/crude/article149.txt  0.000000  0.000000  0.043740  0.000000   
+reuters-topics/crude/article150.txt  0.030731  0.000000  0.000000  0.000000   
+reuters-topics/crude/article151.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/crude/article152.txt  0.085175  0.000000  0.000000  0.000000   
+reuters-topics/crude/article153.txt  0.000000  0.000000  0.000000  0.066838   
+reuters-topics/crude/article154.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/crude/article155.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/crude/article156.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/crude/article157.txt  0.106972  0.000000  0.059449  0.000000   
+reuters-topics/crude/article158.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/crude/article159.txt  0.000000  0.000000  0.050842  0.000000   
+reuters-topics/crude/article160.txt  0.109045  0.035238  0.024240  0.000000   
+reuters-topics/crude/article161.txt  0.065461  0.000000  0.048506  0.000000   
+reuters-topics/crude/article162.txt  0.129005  0.000000  0.057355  0.000000   
+reuters-topics/crude/article503.txt  0.052924  0.000000  0.019608  0.018905   
+reuters-topics/crude/article504.txt  0.000000  0.000000  0.169152  0.000000   
+reuters-topics/crude/article505.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/crude/article506.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/crude/article507.txt  0.090300  0.036476  0.125459  0.096769   
+reuters-topics/crude/article508.txt  0.058773  0.213663  0.048994  0.031491   
+reuters-topics/crude/article509.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/crude/article510.txt  0.052208  0.000000  0.029014  0.000000   
+reuters-topics/crude/article511.txt  0.025912  0.041867  0.028800  0.000000   
+reuters-topics/crude/article512.txt  0.064793  0.209378  0.000000  0.069435   
+reuters-topics/crude/article513.txt  0.039067  0.000000  0.173690  0.041866   
+reuters-topics/crude/article514.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/crude/article515.txt  0.000000  0.000000  0.000000  0.000000   
+reuters-topics/crude/article516.txt  0.000000  0.043322  0.089405  0.000000   
+
+                                        years  yesterday  
+reuters-topics/grain/article182.txt  0.000000   0.000000  
+reuters-topics/grain/article183.txt  0.000000   0.000000  
+reuters-topics/grain/article184.txt  0.315629   0.000000  
+reuters-topics/grain/article185.txt  0.000000   0.000000  
+reuters-topics/grain/article186.txt  0.000000   0.000000  
+reuters-topics/grain/article187.txt  0.000000   0.000000  
+reuters-topics/grain/article188.txt  0.000000   0.000000  
+reuters-topics/grain/article189.txt  0.000000   0.000000  
+reuters-topics/grain/article190.txt  0.000000   0.000000  
+reuters-topics/grain/article191.txt  0.000000   0.000000  
+reuters-topics/grain/article192.txt  0.000000   0.000000  
+reuters-topics/grain/article207.txt  0.040501   0.000000  
+reuters-topics/grain/article208.txt  0.047010   0.000000  
+reuters-topics/grain/article209.txt  0.000000   0.117760  
+reuters-topics/grain/article210.txt  0.000000   0.000000  
+reuters-topics/grain/article211.txt  0.000000   0.000000  
+reuters-topics/grain/article212.txt  0.000000   0.000000  
+reuters-topics/grain/article213.txt  0.000000   0.000000  
+reuters-topics/grain/article214.txt  0.000000   0.000000  
+reuters-topics/grain/article215.txt  0.000000   0.000000  
+reuters-topics/grain/article216.txt  0.000000   0.000000  
+reuters-topics/grain/article217.txt  0.000000   0.000000  
+reuters-topics/grain/article218.txt  0.000000   0.000000  
+reuters-topics/grain/article472.txt  0.000000   0.000000  
+reuters-topics/grain/article473.txt  0.000000   0.000000  
+reuters-topics/grain/article474.txt  0.000000   0.000000  
+reuters-topics/grain/article475.txt  0.000000   0.000000  
+reuters-topics/grain/article476.txt  0.000000   0.000000  
+reuters-topics/grain/article477.txt  0.000000   0.000000  
+reuters-topics/grain/article478.txt  0.000000   0.000000  
+...                                       ...        ...  
+reuters-topics/crude/article347.txt  0.000000   0.000000  
+reuters-topics/crude/article348.txt  0.000000   0.000000  
+reuters-topics/crude/article149.txt  0.000000   0.000000  
+reuters-topics/crude/article150.txt  0.000000   0.000000  
+reuters-topics/crude/article151.txt  0.000000   0.000000  
+reuters-topics/crude/article152.txt  0.000000   0.000000  
+reuters-topics/crude/article153.txt  0.000000   0.000000  
+reuters-topics/crude/article154.txt  0.000000   0.000000  
+reuters-topics/crude/article155.txt  0.000000   0.000000  
+reuters-topics/crude/article156.txt  0.000000   0.000000  
+reuters-topics/crude/article157.txt  0.000000   0.000000  
+reuters-topics/crude/article158.txt  0.000000   0.000000  
+reuters-topics/crude/article159.txt  0.000000   0.000000  
+reuters-topics/crude/article160.txt  0.000000   0.000000  
+reuters-topics/crude/article161.txt  0.000000   0.000000  
+reuters-topics/crude/article162.txt  0.000000   0.000000  
+reuters-topics/crude/article503.txt  0.000000   0.000000  
+reuters-topics/crude/article504.txt  0.000000   0.000000  
+reuters-topics/crude/article505.txt  0.000000   0.000000  
+reuters-topics/crude/article506.txt  0.000000   0.000000  
+reuters-topics/crude/article507.txt  0.000000   0.000000  
+reuters-topics/crude/article508.txt  0.000000   0.027477  
+reuters-topics/crude/article509.txt  0.000000   0.000000  
+reuters-topics/crude/article510.txt  0.000000   0.000000  
+reuters-topics/crude/article511.txt  0.130030   0.000000  
+reuters-topics/crude/article512.txt  0.054191   0.000000  
+reuters-topics/crude/article513.txt  0.000000   0.000000  
+reuters-topics/crude/article514.txt  0.000000   0.000000  
+reuters-topics/crude/article515.txt  0.000000   0.107923  
+reuters-topics/crude/article516.txt  0.000000   0.000000  
+
+[1160 rows x 500 columns]
