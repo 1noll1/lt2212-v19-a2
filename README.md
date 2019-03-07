@@ -6,25 +6,21 @@ My name: Linnea Strand
 
 ## Additional instructions
 
-Not quite ready yet, to say the least.
-I used CountVectorizer, but if it turns that that was not allowed I will of course redo this thing.
+Document here additional command-line instructions or other details you
+want us to know about running your code.
 
 ## File naming convention
 
-As for now:
-file1:
-term-document matrix with no vocabulary restriction and no other transformations
-file2:
-term-document matrix with a vocabulary restriction of 500 dims
-file3:
-term-document matrix with no vocabulary restriction, but with tf-idf applied
-file4:
-the same vocabulary restriction as in (2), but with tf-idf applied
+(Delete this section if it's fairly obvious what output file was
+created with what parameters.)
 
 ## Results and discussion
-This will have to wait until I have a result.
 
-### Vocabulary restriction
+### Vocabulary restriction.
+
+(Write what you chose for the vocabulary restriction for output file
+(2), you can give a brief impressionistic justification for why in one
+sentence or less.)
 
 ### Result table
 
