@@ -14,10 +14,12 @@ parser = argparse.ArgumentParser(description="Generate term-document matrix.")
 parser.add_argument("-T", "--tfidf", action="store_true", help="Apply tf-idf to the matrix.")
 parser.add_argument("-S", "--svd", metavar="N", dest="svddims", type=int,
                     default=None,
-                    help="Use TruncatedSVD to truncate to N dimensions")
+                    help="Use TruncatedSVD to truncate to N dimensions.")
 parser.add_argument("-B", "--base-vocab", metavar="M", dest="basedims",
                     type=int, default=None,
-                    help="Use the top M dims from the raw counts before further processing")
+                    help="Use the top M dims from the raw counts before further processing.")
+parser.add_argument("--to-csv", dest="csv", action="store_true",
+                    help="Save output to csv file.")
 parser.add_argument("foldername", type=str,
                     help="The base folder name containing the two topic subfolders.")
 parser.add_argument("outputfile", type=str,
@@ -58,10 +60,11 @@ def fetchvocab(foldername): # this would be scratch
             '''
             with open(file_path, 'r') as f:
                 doc = f.read().lower()
-                doc = re.sub(r'\n|\d+|["\'!$?.,;\-&:<>()/]', '', doc).split() #remove punctuation and split per token
+                doc = re.sub(r'\n|\d+|["\'!.,;\-&:<>()/]', '', doc).split() #remove punctuation and split per token
                 vocab.extend([w for w in doc if w not in stop_words]) #add every word to vocab, remove stopwords
-                doctexts.update({file_path: doc})
-                vectors.update({file_path: {}})
+                file_name = re.sub(r'{}/'.format(args.foldername), '', file_path)
+                doctexts.update({file_name: doc})
+                vectors.update({file_name: {}})
 
     if args.basedims: #if M is set, include only top M counts from corpus in vocab
         M = args.basedims
@@ -90,11 +93,12 @@ def create_vectors(corpus):
     
     df = pd.DataFrame.from_dict(vectors, orient='index')
     df.columns = vocab
-    df.index.names = ['filepath/filename']
+    # df.index.names = ['filepath/filename']
     filenames = df.index
     #df.set_columns('filepath/filename')
     print("Eliminating duplicate vectors:")
     dubs(df)
+    print(df)
 
     if args.tfidf:
         print("Applying tf-idf to raw counts.")
@@ -102,14 +106,13 @@ def create_vectors(corpus):
         df = tfidf_transformer.fit_transform(df)
         matrix = df.toarray() #just to be able to create a new df
         df = pd.DataFrame(matrix, columns=vocab, index=filenames)
-        df.index.names = ['filepath/filename']
 
-    # if args.svddims:
     if args.svddims:
         print("Truncating matrix to {} dimensions via singular value decomposition.".format(args.svddims))
-        tsvd = TruncatedSVD(args.svddims)
-        matrix = tsvd.fit_transform(df)
-        df = pd.DataFrame(matrix, columns=vocab[:(args.svddims)], index=filenames) 
+        tsvd = TruncatedSVD(n_components=args.svddims)
+        tsvd.fit(df)
+        matrix = tsvd.transform(df)
+        df = pd.DataFrame(matrix, columns=[i for i in range(0,args.svddims)], index=filenames) 
 
     pd.options.display.max_rows = 999
     pd.options.display.max_columns = (len(vocab) + 1)
@@ -127,9 +130,14 @@ def dubs(df):
     return df
 
 def write_file(df):
-    with open(args.outputfile, 'w+') as f:
-        print(df, file=f)
-    #df.to_csv(args.outputfile,index_label='filename') < not exactly human readable
+    '''If option --to-csv is True, the output is written to a csv file (for further processing),
+    else the terminal output is piped to a txt file.
+    '''
+    if args.csv == True:
+        df.to_csv(args.outputfile,index_label='filename')
+    else:
+        with open(args.outputfile, 'w+') as f:
+            print(df, file=f)
 
 if __name__ == '__main__':
     print("Loading data from directory {}.".format(args.foldername))
@@ -137,3 +145,5 @@ if __name__ == '__main__':
     df = create_vectors(corpus)
     print("Writing matrix to {}.".format(args.outputfile))
     write_file(df)
+
+
